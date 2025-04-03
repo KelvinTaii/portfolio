@@ -359,3 +359,10 @@ nav {
         gap: 30px;
     }
 }
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background: rgba(10, 10, 10, 0.8);
+}
