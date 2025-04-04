@@ -1,6 +1,6 @@
 ## Kelvin Nyakundi
 ---
-[Portfolio Link](kelvintaii.me/portfolio/)
+[Portfolio Link](https://kelvintaii.me/portfolio/)
 
 ---
 ### ©2025 - All rights reserved
